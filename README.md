@@ -27,7 +27,6 @@ Currently exploring **AI agents, intelligent automation, and next-generation AI 
 
 ## Connect
 
-**LinkedIn: ** 
-https://www.linkedin.com/in/ganeshnagargoje
-Email: ganesh.nagargoje@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ganeshnagargoje
+- **Email:** ganesh.nagargoje@gmail.com
 
