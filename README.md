@@ -2,16 +2,23 @@
 
 I build scalable software systems, cloud platforms, and AI-powered applications.
 
-My work focuses on **.Application Development, Azure Solution Architecture, payment systems,healthcare and modern AI applications**, with practical implementations that can run in real production environments.
+My work focuses on **Application Development, Azure Solution Architecture, Payment Systems, Modern AI applications for Healthcare, Financial Domain**, with practical implementations that can run in real production environments.
 
 ## What I Work On
-
+### Application Architect
 - Enterprise applications using **.NET** and **Python**
-- **Azure Cloud Architecture** and distributed systems
 - **Payment Systems and financial integrations**
-- **AI Agents and GenAI applications**
-- RAG (Retrieval Augmented Generation) systems
+- **Integration with ERP's** such as Micorsoft Dynamics, Sage Intacct, QuickBooks Online, Netsuite
+  
+### Cloud Architect
+- **Azure Cloud Architecture**, distributed systems and microservices
 - Cloud-native platforms and DevOps automation
+
+### Agentic AI and GenAI Architect
+- **AI Agents and GenAI applications for Healthcare, Financial Domain**
+- RAG (Retrieval Augmented Generation) systems
+- Observability  and Debug
+- Responsible AI 
 
 ## About Me
 
@@ -20,5 +27,7 @@ Currently exploring **AI agents, intelligent automation, and next-generation AI 
 
 ## Connect
 
-LinkedIn:  
+**LinkedIn: ** 
 https://www.linkedin.com/in/ganeshnagargoje
+Email: ganesh.nagargoje@gmail.com
+
