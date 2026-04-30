@@ -6,7 +6,7 @@ My work focuses on **Application Development, Azure Solution Architecture, Payme
 
 ## What I Work On
 ### Application Architect
-- Enterprise applications using **.NET** and **Python**
+- Enterprise applications using **C#.NET** and **Python**
 - **Payment Systems and financial integrations**
 - **Integration with ERP's** such as Micorsoft Dynamics, Sage Intacct, QuickBooks Online, Netsuite
   
