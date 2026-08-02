@@ -17,12 +17,12 @@ My work focuses on **Application Development, Azure Solution Architecture, Payme
 ### Agentic AI and GenAI Architect
 - **AI Agents and GenAI applications for Healthcare, Financial Domain**
 - RAG (Retrieval Augmented Generation) systems
-- Observability  and Debug
+- Observability
 - Responsible AI 
 
 ## About Me
 
-Software Architect with **20+ years of experience** in **.NET, Azure, and enterprise software systems**.  
+Software System Architect with **20+ years of experience** in **.NET, Azure, and enterprise software systems**.  
 Currently exploring **AI agents, intelligent automation, and next-generation AI platforms**.
 
 ## Connect
